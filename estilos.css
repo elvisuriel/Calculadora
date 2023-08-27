@@ -4,9 +4,9 @@ body {
     background: linear-gradient(to right, #00AAFF, #00FF6C);
 }
 .title{
-    justify-content: center;
-    margin-left: 260px;
-    margin-top: 10px;
+    
+    margin-left: 650px;
+    margin-top: 50px;
 }
 
 .calculadora-grilla {
