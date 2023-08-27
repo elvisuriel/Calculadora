@@ -3,6 +3,11 @@ body {
     margin: 0;
     background: linear-gradient(to right, #00AAFF, #00FF6C);
 }
+.title{
+    justify-content: center;
+    margin-left: 260px;
+    margin-top: 10px;
+}
 
 .calculadora-grilla {
     display: grid;
